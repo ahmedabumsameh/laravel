@@ -1,0 +1,9 @@
+.fixed-top {
+    position: relative;
+}
+.navbar.navbar-transparent{
+    background-color: #EB5E28 !important;
+}
+nav{
+    margin-bottom: 50px;
+}

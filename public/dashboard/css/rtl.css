@@ -1,0 +1,14 @@
+
+.pull-left{
+	float: right !important;
+}
+
+.pull-right{
+	float: left !important;
+}
+.content-wrapper {
+
+    min-height: 800px !important;
+}
+.bg-c2{background-color: #405d3a}
+.bg-c3{background-color: #a6c64c}
